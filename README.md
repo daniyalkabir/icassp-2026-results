@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains materials for our ICASSP 2025 paper on Impact of Phonetics on Preserving Identity in Adversarial Voice Attacks. We present comprehensive results across 16 different target texts.
+This repository contains materials for our ICASSP 2026 paper on Impact of Phonetics on Preserving Identity in Adversarial Voice Attacks. We present comprehensive results across 16 different target texts.
 
 🌐 **[View Results Website]((https://daniyalkabir.github.io/icassp-2026-results/))**
 
