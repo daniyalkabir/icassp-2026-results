@@ -11,7 +11,7 @@ This repository contains materials for our ICASSP 2026 paper on Impact of Phonet
 
 🌐 **[View Results Website]((https://daniyalkabir.github.io/icassp-2026-results/))**
 
-## https://daniyalkabir.github.io/icassp-2025-results/
+## https://daniyalkabir.github.io/icassp-2026-results/
 
 ## Research Highlights
 
